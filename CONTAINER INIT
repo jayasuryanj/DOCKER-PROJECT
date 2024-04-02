@@ -23,7 +23,8 @@ sudo apt install docker-ce -y
 #sudo systemctl status docker
 sudo chmod 777 /var/run/docker.sock
 Git
-apt install gitStep 4 - Go over the docker file in above repo
+apt install git
+Step 4 - Go over the docker file in above repo
 https://github.com/DEVOPS-WITH-WEB-DEV/spring-clo
 ud-kubernetes/blob/main/kubernetes-configmap-reload/
 Dockerfile
